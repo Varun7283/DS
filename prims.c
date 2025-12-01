@@ -18,7 +18,7 @@ int main() {
         }
     }
 
-    visited[0] = 1;  // start from vertex 0
+    visited[0] = 1; 
 
     printf("\nEdges in the Minimum Spanning Tree:\n");
 
